@@ -13,12 +13,12 @@ Group Members: Jagger, Yousef, Connor
 
 ## Important Deadlines
 
-| Deadline | Milestone | What to Do |
-| :--- | :--- | :--- |
-| Before Block 2 (13.10) | Team Formation | Form and register your team of 3. |
-| Before Block 3 (20.10) | Topic Approval | Submit a short written description covering the business decision, dataset source, target variable, and 2 planned model families. |
-| Before Block 7 (17.11) | Final Submission | Upload the completed notebook and presentation slides. |
-| Block 7 (17.11) | Presentation | Present the project live (6 to 8 minutes plus Q&A). |
+| Deadline               | Milestone        | What to Do                                                                                                                        |
+| :--------------------- | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| Before Block 2 (13.10) | Team Formation   | Form and register your team of 3.                                                                                                 |
+| Before Block 3 (20.10) | Topic Approval   | Submit a short written description covering the business decision, dataset source, target variable, and 2 planned model families. |
+| Before Block 7 (17.11) | Final Submission | Upload the completed notebook and presentation slides.                                                                            |
+| Block 7 (17.11)        | Presentation     | Present the project live (6 to 8 minutes plus Q&A).                                                                               |
 
 ---
 
@@ -53,4 +53,4 @@ Group Members: Jagger, Yousef, Connor
 *Note: Follow the project outline template to structure your final report and presentation slides step by step.*
 
 # Install the libraries into the kernel this notebook is using place this at the beginning and then you can delete.
-%pip install numpy pandas matplotlib scikit-learn seaborn
+%pip install -r requirements.txt
