@@ -51,3 +51,6 @@ Group Members: Jagger, Yousef, Connor
 * **Evidence Log Habit:** Every claim in your data understanding notes or reports must be directly backed by a specific plot or metric.
 
 *Note: Follow the project outline template to structure your final report and presentation slides step by step.*
+
+# Install the libraries into the kernel this notebook is using place this at the beginning and then you can delete.
+%pip install numpy pandas matplotlib scikit-learn seaborn
